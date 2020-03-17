@@ -102,4 +102,11 @@ Type "help", "copyright", "credits" or "license" for more information.
     
 >>>CTRL+Z
 
+
+At the end you can check some samples like in
+
+      https://github.com/opencv/opencv/tree/master/samples/python
+      
+      
+      
 That is All!
