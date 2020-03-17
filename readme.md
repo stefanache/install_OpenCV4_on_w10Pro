@@ -1,6 +1,6 @@
 
 Hi,
-I have the windows 10 Pro installed on my computer.
+I have the windows 10 Pro(win 32) installed on my computer.
 
 
 Step 1
@@ -39,10 +39,28 @@ https://docs.anaconda.com/anaconda/install/uninstall/
             
 -Action:
 ---------
-cmd.exe 
+cmd.exe
+
 cd /path/to/Anavconda 3
+
 rmdir envs /s
+
 rmdir pkgs /s
+
 cd C:\Users\{User}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools
-click on Control panel and 
+
+click on Control panel and
+
 Uninstalling all previous python versions and anaconda3.
+
+
+Step 2
+------
+
+Now want to install OpenCV4 for Python 3.7(64 bit (AMD64).
+
+For that have this tutorial: 
+   https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/
+
+
+
