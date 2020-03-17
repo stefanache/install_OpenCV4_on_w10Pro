@@ -96,12 +96,13 @@ For that have this tutorial:
 C:\Users\{User}>python
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
-    >>>
 
-        import cv2
-        import numpy
-
-    >>>quit()
+    >>> import cv2
+    >>> cv2.__version__
+    '4.2.0'
+    >>> quit()) 
+    or 
+      >>>CTRL+Z
 
 
 At the end you can check some samples like in
