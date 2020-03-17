@@ -26,12 +26,14 @@ Type "help", "copyright", "credits" or "license" for more information.
 So before at all must to delete all previous versions of python and Anaconda 3.
 For that I used this tutorial to uninstall Anaconda 3
 https://docs.anaconda.com/anaconda/install/uninstall/
+
             "Option A. Use simple remove to uninstall Anaconda:
 
             Windows
             Use Windows Explorer to delete the envs and pkgs folders prior to running the uninstall in the root of your installation.
             In the Control Panel, choose Add or Remove Programs or Uninstall a program, and then select Python 3.6 (Anaconda) or 
             your   version of Python."
+            
 -Action:
 ---------
 cmd.exe 
