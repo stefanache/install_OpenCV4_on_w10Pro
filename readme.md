@@ -1,10 +1,15 @@
 
 Hi,
 I have the windows 10 Pro installed on my computer.
+
+
 Step 1
 ------
 I want o have only one version of Python 3.7.7 on this machine
--History:
+
+-Hystory:
+---------
+
 On this computer was many other python's versions already installed.
 And in plus was and Anaconda3 installed.
 Before at All I intend to remain with one single python 3.
