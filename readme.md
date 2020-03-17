@@ -1,6 +1,10 @@
 
 Hi,
 I have the windows 10 Pro installed on my computer.
+Step 1
+------
+I want o have only one version of Python 3.7.7 on this machine
+-History:
 On this computer was many other python's versions already installed.
 And in plus was and Anaconda3 installed.
 Before at All I intend to remain with one single python 3.
@@ -23,7 +27,8 @@ https://docs.anaconda.com/anaconda/install/uninstall/
             Use Windows Explorer to delete the envs and pkgs folders prior to running the uninstall in the root of your installation.
             In the Control Panel, choose Add or Remove Programs or Uninstall a program, and then select Python 3.6 (Anaconda) or 
             your   version of Python."
-
+-Action:
+---------
 cmd.exe 
 cd /path/to/Anavconda 3
 rmdir envs /s
