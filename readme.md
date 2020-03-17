@@ -22,6 +22,7 @@ C:\Users\{User}>python --version
 Python 3.7.7
 
 C:\Users\{User}>python
+
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>CTRL+Z
@@ -79,17 +80,17 @@ For that have this tutorial:
         
 5. Now let’s install the Opencv module using PIP.
 
-        python -m pip install opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
+        C:\Users\{User}\Downloads>python -m pip install opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
         
 6. Now let’s install Numpy using PIP.
 
-        python -m pip install numpy
+        C:\Users\{User}\Downloads>python -m pip install numpy
 
 7. The installation is complete. 
     Now we can test it by running python and importing the libraries cv2 (for opencv) and numpy. 
     If we don’t get any error it means that it has been installed succesfully.
     
-        python
+        C:\Users\{User}\Downloads>python
         
 C:\Users\{User}>python
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
@@ -98,6 +99,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
     import cv2
     import numpy
+    
+>>>CTRL+Z
 
-
-That is All
+That is All!
