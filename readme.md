@@ -62,5 +62,10 @@ Now want to install OpenCV4 for Python 3.7(64 bit (AMD64).
 For that have this tutorial: 
    https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/
 
+1. Download the Opencv binary files here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+
+   in my case: 
+        opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
+
 
 
