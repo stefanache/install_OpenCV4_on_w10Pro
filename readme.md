@@ -112,3 +112,15 @@ At the end you can check some samples like in
       
       
 That is All!
+
+
+
+PS:
+    see example at https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+    which needs others installments like imutils
+    
+    pip install --upgrade imutils
+    or
+    python -m pip install --upgrade imutils
+    
+    
