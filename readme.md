@@ -63,8 +63,10 @@ For that have this tutorial:
    https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/
 
 1. Download the Opencv binary files here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+2. Choose the compatible version of Opencv to your Python. We’ll download the lastest version of Opencv (4.1) for Python 3.7
 
-   in my case: 
+   in my case:
+   
         opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
 
 
