@@ -25,7 +25,8 @@ C:\Users\{User}>python
 
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
->>>CTRL+Z
+
+    >>> quit()
 
 So before at all must to delete all previous versions of python and Anaconda 3.
 For that I used this tutorial to uninstall Anaconda 3
@@ -95,12 +96,12 @@ For that have this tutorial:
 C:\Users\{User}>python
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
->>>
+    >>>
 
-    import cv2
-    import numpy
-    
->>>CTRL+Z
+        import cv2
+        import numpy
+
+    >>>quit()
 
 
 At the end you can check some samples like in
