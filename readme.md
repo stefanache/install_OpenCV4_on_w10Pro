@@ -69,5 +69,18 @@ For that have this tutorial:
    
         opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
 
+3. Run the “Command Prompt” of Windows. You can type “CMD” on the sarch bar to find it.
 
+4. Go to the directory where the Opencv binaries that you downloaded is located.
 
+   in my case:
+   
+        cd C:\Users\{user}\Downloads
+        
+5. Now let’s install the Opencv module using PIP.
+
+        python -m pip install opencv_python-4.2.0-cp37-cp37m-win_amd64.whl
+        
+6. Now let’s install Numpy using PIP.
+
+        python -m pip install numpy
