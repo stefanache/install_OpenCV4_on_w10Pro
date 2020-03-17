@@ -15,9 +15,12 @@ And in plus was and Anaconda3 installed.
 Before at All I intend to remain with one single python 3.
 On my computer must to remain only python 3.7.7 located in :
     "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2032.0_x64__qbz5n2kfra8p0"
-Finaly intend to have: 
+    
+Finaly intend to have:
+
 C:\Users\{User}>python --version
 Python 3.7.7
+
 C:\Users\{User}>python
 Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 11:52:54) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
